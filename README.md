@@ -26,6 +26,7 @@ pip install -r requirements.txt
 ---
 
 ## 📂 Project Structure
+```
 
 opencv-project-template/
 │
@@ -43,7 +44,7 @@ opencv-project-template/
 ├── README.md # Project description (you must update this)
 └── .gitignore
 
-
+```
 ---
 
 ## ▶️ Running the Project
